@@ -1,0 +1,4 @@
+title: Character Name
+samples:
+  - voice: samples/character-name/filename.wav
+    text: Transcription of audio file

@@ -1,0 +1,5 @@
+config/**/*.yml
+!config/**/*.example.yml
+
+outputs/
+samples/

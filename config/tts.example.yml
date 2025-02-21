@@ -1,0 +1,4 @@
+name: project-name
+iterations: 10
+reference_id: model-reference-id
+text: Text to be synthesized
